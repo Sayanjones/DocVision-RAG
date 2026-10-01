@@ -1,4 +1,4 @@
-# Docvision RAG for PDFs with charts, tables and diagrams
+# DocVision RAG for PDFs with charts, tables and diagrams
 
 Most RAG demos treat a PDF as a pile of paragraphs. Real reports aren't like that. The answer to "which quarter had the highest revenue?" is a point on a line chart, and the answer to "where is the critical quality-control point?" is a highlighted box in a diagram. If you only extract text, neither answer is anywhere in your index.
 
