@@ -153,9 +153,6 @@ Some of these bother me more than others.
 - Table detection uses PyMuPDF's heuristics. It found all eight tables in this report, but scanned or borderless tables are a different story.
 - Ingestion wipes the namespace each time. That keeps re-runs clean and also means you can't keep several documents side by side without changing `PINECONE_NAMESPACE`.
 
-## Credits
-
-The multimodal approach and the NovaCore demo document come from the DSwithBappy multimodal RAG walkthrough and the Complete-Agentic-AI-Course by entbappy. I rebuilt the pipeline from that material, restructured it into a package and added the CLI and tests. The NovaCore report is entirely fictional.
 
 ## License
 
