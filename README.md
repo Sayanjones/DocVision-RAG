@@ -156,4 +156,4 @@ Some of these bother me more than others.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). The NovaCore PDF is third-party demo material and isn't covered by it.
+MIT - see [LICENSE](LICENSE). The NovaCore PDF is third-party demo material and isn't covered by it.
